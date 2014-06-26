@@ -9,9 +9,9 @@
         }
     ],
     "autoload": {
-      "files" : {
+      "files" : [
         "src/App.php"
-      }
+      ]
     },
     "require": {
       "dsawardekar/encase-php": "~0.1.0"
