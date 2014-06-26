@@ -9,8 +9,8 @@
         }
     ],
     "autoload": {
-      "psr-4" : {
-        "BenAllfree\\Encase\\" : "src/"
+      "files" : {
+        "src/App.php"
       }
     },
     "require": {
